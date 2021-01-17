@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switchcaseyapisi", "switchc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2günÖdev5", "2günÖdev5\2günÖdev5.csproj", "{60198421-691E-4356-B982-ECEF05FEAE5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{802C0381-DE16-45CE-9D56-861FB77380DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{802C0381-DE16-45CE-9D56-861FB77380DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2gunOdev6", "2gunOdev6\2gunOdev6.csproj", "{EE36A15E-F216-420B-8743-E9E6FA67E386}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{802C0381-DE16-45CE-9D56-861FB77380DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{802C0381-DE16-45CE-9D56-861FB77380DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{802C0381-DE16-45CE-9D56-861FB77380DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE36A15E-F216-420B-8743-E9E6FA67E386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE36A15E-F216-420B-8743-E9E6FA67E386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE36A15E-F216-420B-8743-E9E6FA67E386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE36A15E-F216-420B-8743-E9E6FA67E386}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
