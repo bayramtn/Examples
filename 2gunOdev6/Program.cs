@@ -67,11 +67,6 @@ namespace _2gunOdev6
                 a++;
             }
 
-
-
-
-
-
         }
     }
 }
