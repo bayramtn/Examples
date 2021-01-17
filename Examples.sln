@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examples", "Examples\Exampl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switchcaseyapisi", "switchcaseyapisi\switchcaseyapisi.csproj", "{3D8C02E2-FF7E-490E-B0C5-F03B1CF8DD8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2günÖdev5", "2günÖdev5\2günÖdev5.csproj", "{60198421-691E-4356-B982-ECEF05FEAE5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2günÖdev5", "2günÖdev5\2günÖdev5.csproj", "{60198421-691E-4356-B982-ECEF05FEAE5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{802C0381-DE16-45CE-9D56-861FB77380DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{60198421-691E-4356-B982-ECEF05FEAE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60198421-691E-4356-B982-ECEF05FEAE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60198421-691E-4356-B982-ECEF05FEAE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802C0381-DE16-45CE-9D56-861FB77380DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802C0381-DE16-45CE-9D56-861FB77380DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802C0381-DE16-45CE-9D56-861FB77380DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802C0381-DE16-45CE-9D56-861FB77380DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
